@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-09-24T13:29:26.557668Z"
+   url="file:///usr/local/svn/aupair/trunk/images"
+   last-author="mlhshino"
+   kind="dir"
+   uuid="dd55831d-4f5a-4d7f-914e-1a5eb83fa7ad"
+   repos="file:///usr/local/svn/aupair"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="Thumbs.db"
+   text-time="2006-09-24T13:35:33.000000Z"
+   committed-date="2006-09-24T13:29:26.557668Z"
+   checksum="9cf5a441f745042ba0122da1a641ad9d"
+   last-author="mlhshino"
+   kind="file"
+   prop-time="2006-09-24T13:35:33.000000Z"/>
+<entry
+   committed-rev="1"
+   name="header.jpg"
+   text-time="2006-09-24T13:35:33.000000Z"
+   committed-date="2006-09-24T13:29:26.557668Z"
+   checksum="4ad5091ad6f21b7836742e1435d503ce"
+   last-author="mlhshino"
+   kind="file"
+   prop-time="2006-09-24T13:35:33.000000Z"/>
+<entry
+   committed-rev="1"
+   name="children01.jpg"
+   text-time="2006-09-24T13:35:33.000000Z"
+   committed-date="2006-09-24T13:29:26.557668Z"
+   checksum="3a02801da631ae27e844ca6f8b31aa2b"
+   last-author="mlhshino"
+   kind="file"
+   prop-time="2006-09-24T13:35:33.000000Z"/>
+<entry
+   committed-rev="1"
+   name="children02.jpg"
+   text-time="2006-09-24T13:35:33.000000Z"
+   committed-date="2006-09-24T13:29:26.557668Z"
+   checksum="c7b0deef4e707511071456e7327bc818"
+   last-author="mlhshino"
+   kind="file"
+   prop-time="2006-09-24T13:35:33.000000Z"/>
+<entry
+   committed-rev="1"
+   name="children03.jpg"
+   text-time="2006-09-24T13:35:33.000000Z"
+   committed-date="2006-09-24T13:29:26.557668Z"
+   checksum="1975141b558f803c5bca81019046f270"
+   last-author="mlhshino"
+   kind="file"
+   prop-time="2006-09-24T13:35:33.000000Z"/>
+<entry
+   committed-rev="1"
+   name="children04.jpg"
+   text-time="2006-09-24T13:35:33.000000Z"
+   committed-date="2006-09-24T13:29:26.557668Z"
+   checksum="a9a0c952a722172d85cb63256eb2a6a3"
+   last-author="mlhshino"
+   kind="file"
+   prop-time="2006-09-24T13:35:33.000000Z"/>
+</wc-entries>
